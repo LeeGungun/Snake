@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="GameItem">
+  <packagedElement xmi:type="uml:Package" xmi:id="_E-zD4PpXEeSNQI75zozVAw" name="gameitem">
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-zD4fpXEeSNQI75zozVAw" name="Crown">
+      <generalization xmi:id="_FAtIYPpXEeSNQI75zozVAw" general="_E-4jcPpXEeSNQI75zozVAw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-0SAPpXEeSNQI75zozVAw" name="Bread">
+      <generalization xmi:id="_FAtvcPpXEeSNQI75zozVAw" general="_E-4jcPpXEeSNQI75zozVAw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-1gIPpXEeSNQI75zozVAw" name="Bomb">
+      <generalization xmi:id="_FAtvcfpXEeSNQI75zozVAw" general="_E-4jcPpXEeSNQI75zozVAw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-2uQPpXEeSNQI75zozVAw" name="Water">
+      <generalization xmi:id="_FAtvcvpXEeSNQI75zozVAw" general="_E-4jcPpXEeSNQI75zozVAw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-38YPpXEeSNQI75zozVAw" name="Apple">
+      <generalization xmi:id="_FAuWgPpXEeSNQI75zozVAw" general="_E-4jcPpXEeSNQI75zozVAw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_E-4jcPpXEeSNQI75zozVAw" name="GameItem">
+      <ownedAttribute xmi:id="_FAvkoPpXEeSNQI75zozVAw" name="img" visibility="protected" type="_FArTMPpXEeSNQI75zozVAw"/>
+      <ownedAttribute xmi:id="_FCJS0PpXEeSNQI75zozVAw" name="x" visibility="protected">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_FCLvEPpXEeSNQI75zozVAw" name="y" visibility="protected">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_FCPZcPpXEeSNQI75zozVAw" name="isRepaint" visibility="protected">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        <defaultValue xmi:type="uml:LiteralBoolean" xmi:id="_FCPZcfpXEeSNQI75zozVAw"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_FCROoPpXEeSNQI75zozVAw" name="fightimg" visibility="protected" type="_FArTMPpXEeSNQI75zozVAw"/>
+      <ownedOperation xmi:id="_FCTD0PpXEeSNQI75zozVAw" name="getX" visibility="public">
+        <ownedParameter xmi:id="_FCTD0fpXEeSNQI75zozVAw" name="return" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_FCUR8PpXEeSNQI75zozVAw" name="getY" visibility="public">
+        <ownedParameter xmi:id="_FCUR8fpXEeSNQI75zozVAw" name="return" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_FCcNwPpXEeSNQI75zozVAw" name="getimg" visibility="public">
+        <ownedParameter xmi:id="_FCcNwfpXEeSNQI75zozVAw" name="return" type="_FArTMPpXEeSNQI75zozVAw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_FCfREPpXEeSNQI75zozVAw" name="cleanItem" visibility="public"/>
+      <ownedOperation xmi:id="_FCi7cPpXEeSNQI75zozVAw" name="drawFightItem" visibility="public">
+        <ownedParameter xmi:id="_FCi7cfpXEeSNQI75zozVAw" name="g" type="_FAqsIfpXEeSNQI75zozVAw"/>
+        <ownedParameter xmi:id="_FCi7cvpXEeSNQI75zozVAw" name="i" type="_FArTMvpXEeSNQI75zozVAw"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_FClXsPpXEeSNQI75zozVAw" name="drawItem" visibility="public">
+        <ownedParameter xmi:id="_FClXsfpXEeSNQI75zozVAw" name="g" type="_FAqsIfpXEeSNQI75zozVAw"/>
+        <ownedParameter xmi:id="_FClXsvpXEeSNQI75zozVAw" name="i" type="_FArTMvpXEeSNQI75zozVAw"/>
+        <ownedParameter xmi:id="_FClXs_pXEeSNQI75zozVAw" name="m">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedParameter>
+      </ownedOperation>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_FApeAPpXEeSNQI75zozVAw" name="java">
+    <packagedElement xmi:type="uml:Package" xmi:id="_FApeAfpXEeSNQI75zozVAw" name="awt">
+      <packagedElement xmi:type="uml:DataType" xmi:id="_FAqFEPpXEeSNQI75zozVAw" name="*"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_FAqFEfpXEeSNQI75zozVAw" name="Toolkit"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_FAqsIPpXEeSNQI75zozVAw" name="Color"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_FAqsIfpXEeSNQI75zozVAw" name="Graphics"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_FArTMPpXEeSNQI75zozVAw" name="Image"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_FArTMfpXEeSNQI75zozVAw" name="image">
+        <packagedElement xmi:type="uml:DataType" xmi:id="_FArTMvpXEeSNQI75zozVAw" name="ImageObserver"/>
+      </packagedElement>
+    </packagedElement>
+  </packagedElement>
+</uml:Model>

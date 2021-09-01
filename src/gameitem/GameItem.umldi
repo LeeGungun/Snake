@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_DxgKUPpXEeSNQI75zozVAw" activeDiagram="_DxgKUfpXEeSNQI75zozVAw">
+  <model href="GameItem.uml#_qb8akM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_DxgKUfpXEeSNQI75zozVAw" position="0,0" size="100,100" name="GameItem" viewport="0,0">
+    <property xmi:id="_Dx1hgPpXEeSNQI75zozVAw" key="pageFormatName" value="A4"/>
+    <property xmi:id="_Dx1hgfpXEeSNQI75zozVAw" key="diagramWidth" value="840"/>
+    <property xmi:id="_Dx1hgvpXEeSNQI75zozVAw" key="diagramHeight" value="1188"/>
+    <property xmi:id="_Dx1hg_pXEeSNQI75zozVAw" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_Dx1hhPpXEeSNQI75zozVAw" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_Dx1hhfpXEeSNQI75zozVAw" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_Dx1hhvpXEeSNQI75zozVAw" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_Dx1hh_pXEeSNQI75zozVAw" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_Dx1hiPpXEeSNQI75zozVAw" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DxgKUvpXEeSNQI75zozVAw" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="GameItem.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_FFh-APpXEeSNQI75zozVAw" position="34,34" size="500,370">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFh-AfpXEeSNQI75zozVAw">
+        <element href="GameItem.uml#_E-zD4PpXEeSNQI75zozVAw"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFjzMPpXEeSNQI75zozVAw" position="356,11" size="72,-1">
+        <anchorage xmi:id="_FGEJgPpXEeSNQI75zozVAw" graphEdge="_FGF-sPpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFjzMfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-zD4fpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFkaQPpXEeSNQI75zozVAw">
+          <property xmi:id="_FFkaQfpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFkaQvpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-zD4fpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFkaQ_pXEeSNQI75zozVAw">
+          <property xmi:id="_FFkaRPpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFkaRfpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-zD4fpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFm2gPpXEeSNQI75zozVAw" position="413,73" size="72,-1">
+        <anchorage xmi:id="_FGHM0PpXEeSNQI75zozVAw" graphEdge="_FGIa8PpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFm2gfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-0SAPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFm2gvpXEeSNQI75zozVAw">
+          <property xmi:id="_FFm2g_pXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFm2hPpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-0SAPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFm2hfpXEeSNQI75zozVAw">
+          <property xmi:id="_FFm2hvpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFm2h_pXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-0SAPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFpSwPpXEeSNQI75zozVAw" position="406,197" size="64,-1">
+        <anchorage xmi:id="_FGJpEPpXEeSNQI75zozVAw" graphEdge="_FGK3MPpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFpSwfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-1gIPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFpSwvpXEeSNQI75zozVAw">
+          <property xmi:id="_FFpSw_pXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFpSxPpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-1gIPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFpSxfpXEeSNQI75zozVAw">
+          <property xmi:id="_FFpSxvpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFpSx_pXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-1gIPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFrH8PpXEeSNQI75zozVAw" position="406,259" size="72,-1">
+        <anchorage xmi:id="_FGMFUPpXEeSNQI75zozVAw" graphEdge="_FGNTcPpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFrH8fpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-2uQPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFrH8vpXEeSNQI75zozVAw">
+          <property xmi:id="_FFrH8_pXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFrH9PpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-2uQPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFrH9fpXEeSNQI75zozVAw">
+          <property xmi:id="_FFrH9vpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFrH9_pXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-2uQPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFuLQPpXEeSNQI75zozVAw" position="406,135" size="72,-1">
+        <anchorage xmi:id="_FGN6gPpXEeSNQI75zozVAw" graphEdge="_FGPvsPpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFuLQfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-38YPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFuLQvpXEeSNQI75zozVAw">
+          <property xmi:id="_FFuLQ_pXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFuLRPpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-38YPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFuLRfpXEeSNQI75zozVAw">
+          <property xmi:id="_FFuLRvpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFuLR_pXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-38YPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_FFwAcPpXEeSNQI75zozVAw" position="15,73" size="390,-1">
+        <anchorage xmi:id="_FGEJgfpXEeSNQI75zozVAw" graphEdge="_FGF-sPpXEeSNQI75zozVAw _FGIa8PpXEeSNQI75zozVAw _FGK3MPpXEeSNQI75zozVAw _FGNTcPpXEeSNQI75zozVAw _FGPvsPpXEeSNQI75zozVAw"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwAcfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_E-4jcPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFwngPpXEeSNQI75zozVAw">
+          <property xmi:id="_FFwngfpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwngvpXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-4jcPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwng_pXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnhPpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FAvkoPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnhfpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnhvpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCJS0PpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnh_pXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwniPpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCLvEPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnifpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnivpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCPZcPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwni_pXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnjPpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCROoPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_FFwnjfpXEeSNQI75zozVAw">
+          <property xmi:id="_FFwnjvpXEeSNQI75zozVAw" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnj_pXEeSNQI75zozVAw">
+            <element href="GameItem.uml#_E-4jcPpXEeSNQI75zozVAw"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnkPpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnkfpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCTD0PpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnkvpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnk_pXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCUR8PpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnlPpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnlfpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCcNwPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnlvpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnl_pXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCfREPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnmPpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnmfpXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FCi7cPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_FFwnmvpXEeSNQI75zozVAw" position="202,167">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FFwnm_pXEeSNQI75zozVAw">
+              <element href="GameItem.uml#_FClXsPpXEeSNQI75zozVAw"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_FGF-sPpXEeSNQI75zozVAw" anchor="_FGEJgPpXEeSNQI75zozVAw _FGEJgfpXEeSNQI75zozVAw">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FGGlwPpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_FAtIYPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_FGIa8PpXEeSNQI75zozVAw" anchor="_FGHM0PpXEeSNQI75zozVAw _FGEJgfpXEeSNQI75zozVAw">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FGIa8fpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_FAtvcPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_FGK3MPpXEeSNQI75zozVAw" anchor="_FGJpEPpXEeSNQI75zozVAw _FGEJgfpXEeSNQI75zozVAw">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FGK3MfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_FAtvcfpXEeSNQI75zozVAw"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_FGNTcPpXEeSNQI75zozVAw" anchor="_FGMFUPpXEeSNQI75zozVAw _FGEJgfpXEeSNQI75zozVAw">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FGNTcfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_FAtvcvpXEeSNQI75zozVAw"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_FGPvsPpXEeSNQI75zozVAw" anchor="_FGN6gPpXEeSNQI75zozVAw _FGEJgfpXEeSNQI75zozVAw">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FGPvsfpXEeSNQI75zozVAw">
+          <element href="GameItem.uml#_FAuWgPpXEeSNQI75zozVAw"/>
+        </semanticModel>
+      </contained>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>
